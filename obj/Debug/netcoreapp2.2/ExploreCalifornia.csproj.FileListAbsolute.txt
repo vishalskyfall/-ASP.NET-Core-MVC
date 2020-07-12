@@ -1,0 +1,50 @@
+F:\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch04\04_04_End\ExploreCalifornia\bin\Debug\netcoreapp2.2\appsettings.Development.json
+F:\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch04\04_04_End\ExploreCalifornia\bin\Debug\netcoreapp2.2\appsettings.json
+F:\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch04\04_04_End\ExploreCalifornia\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+F:\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch04\04_04_End\ExploreCalifornia\bin\Debug\netcoreapp2.2\ExploreCalifornia.deps.json
+F:\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch04\04_04_End\ExploreCalifornia\bin\Debug\netcoreapp2.2\ExploreCalifornia.runtimeconfig.json
+F:\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch04\04_04_End\ExploreCalifornia\bin\Debug\netcoreapp2.2\ExploreCalifornia.runtimeconfig.dev.json
+F:\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch04\04_04_End\ExploreCalifornia\bin\Debug\netcoreapp2.2\ExploreCalifornia.dll
+F:\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch04\04_04_End\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.csprojAssemblyReference.cache
+F:\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch04\04_04_End\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.AssemblyInfoInputs.cache
+F:\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch04\04_04_End\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.AssemblyInfo.cs
+F:\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch04\04_04_End\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.RazorAssemblyInfo.cache
+F:\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch04\04_04_End\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.RazorAssemblyInfo.cs
+F:\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch04\04_04_End\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.TagHelpers.input.cache
+F:\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch04\04_04_End\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.TagHelpers.output.cache
+F:\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch04\04_04_End\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.RazorCoreGenerate.cache
+F:\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch04\04_04_End\ExploreCalifornia\obj\Debug\netcoreapp2.2\Razor\Views\Blog\Create.cshtml.g.cs
+F:\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch04\04_04_End\ExploreCalifornia\obj\Debug\netcoreapp2.2\Razor\Views\Blog\Index.cshtml.g.cs
+F:\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch04\04_04_End\ExploreCalifornia\obj\Debug\netcoreapp2.2\Razor\Views\Blog\Post.cshtml.g.cs
+F:\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch04\04_04_End\ExploreCalifornia\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+F:\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch04\04_04_End\ExploreCalifornia\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch04\04_04_End\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.RazorTargetAssemblyInfo.cache
+F:\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch04\04_04_End\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.RazorTargetAssemblyInfo.cs
+F:\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch04\04_04_End\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.genruntimeconfig.cache
+F:\MVC_Crud\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.csprojAssemblyReference.cache
+F:\MVC_Crud\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.AssemblyInfoInputs.cache
+F:\MVC_Crud\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.AssemblyInfo.cs
+F:\MVC_Crud\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.csproj.CoreCompileInputs.cache
+F:\MVC_Crud\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.RazorAssemblyInfo.cache
+F:\MVC_Crud\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.RazorAssemblyInfo.cs
+F:\MVC_Crud\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.2\appsettings.Development.json
+F:\MVC_Crud\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.2\appsettings.json
+F:\MVC_Crud\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+F:\MVC_Crud\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.2\ExploreCalifornia.deps.json
+F:\MVC_Crud\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.2\ExploreCalifornia.runtimeconfig.json
+F:\MVC_Crud\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.2\ExploreCalifornia.runtimeconfig.dev.json
+F:\MVC_Crud\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.2\ExploreCalifornia.dll
+F:\MVC_Crud\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.TagHelpers.input.cache
+F:\MVC_Crud\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.TagHelpers.output.cache
+F:\MVC_Crud\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.RazorCoreGenerate.cache
+F:\MVC_Crud\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\Razor\Views\Blog\Create.cshtml.g.cs
+F:\MVC_Crud\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\Razor\Views\Blog\Index.cshtml.g.cs
+F:\MVC_Crud\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\Razor\Views\Blog\Post.cshtml.g.cs
+F:\MVC_Crud\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+F:\MVC_Crud\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\MonthlySpecials\Default.cshtml.g.cs
+F:\MVC_Crud\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\MVC_Crud\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Post.cshtml.g.cs
+F:\MVC_Crud\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+F:\MVC_Crud\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.RazorTargetAssemblyInfo.cache
+F:\MVC_Crud\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.RazorTargetAssemblyInfo.cs
+F:\MVC_Crud\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.genruntimeconfig.cache
